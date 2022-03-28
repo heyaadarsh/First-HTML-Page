@@ -1,0 +1,15 @@
+    /*Class Method*/
+.color-red{
+    color: red;
+}
+p{
+    color: blue;
+    }
+
+/*id method*/
+#yellow-color{
+    color: yellow; size: 21px;
+}
+#black-para{
+    size: 30px; color: black;
+}
